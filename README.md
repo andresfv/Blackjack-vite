@@ -1,4 +1,4 @@
-# BlacJack Vite
+# Blacjack Vite
 
 # Pasos para ejecutar el proyecto:
 
