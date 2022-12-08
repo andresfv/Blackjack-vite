@@ -1,4 +1,4 @@
-# Blacjack Vite
+# Blackjack Vite
 
 # Pasos para ejecutar el proyecto:
 
